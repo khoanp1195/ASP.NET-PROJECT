@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPnet.Data", "ASPnet.Data\ASPnet.Data.csproj", "{B28A8DD3-DF46-4E36-8258-C545E191016E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPnet.Application", "ASPnet.Application\ASPnet.Application.csproj", "{E64FF0BB-0906-47D7-90B7-3A856049BBF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{D60D6D1D-BC56-4701-80CC-5CDA327145AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D60D6D1D-BC56-4701-80CC-5CDA327145AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D60D6D1D-BC56-4701-80CC-5CDA327145AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B28A8DD3-DF46-4E36-8258-C545E191016E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28A8DD3-DF46-4E36-8258-C545E191016E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28A8DD3-DF46-4E36-8258-C545E191016E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28A8DD3-DF46-4E36-8258-C545E191016E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64FF0BB-0906-47D7-90B7-3A856049BBF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64FF0BB-0906-47D7-90B7-3A856049BBF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64FF0BB-0906-47D7-90B7-3A856049BBF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64FF0BB-0906-47D7-90B7-3A856049BBF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
